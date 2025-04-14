@@ -5,5 +5,7 @@ public class Main{
         System.out.println("hello from java program");
         System.out.println("hello world");
         System.out.println(new Date());
+        System.out.println("hello");
+        System.out.println("Added one more filr");
     }
 }
